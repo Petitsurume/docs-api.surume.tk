@@ -9,4 +9,4 @@ api.surume.tk は、不定期にデプロイやメンテナンス、サーバー
 
 ## API一覧
 
-- [Icon API](icon-api.md)
+- [Icon API](icon-api.md) - 各SNSのscreen_nameを元に該当ユーザーのアイコンの画像ファイルへリダイレクトするAPIです
