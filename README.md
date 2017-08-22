@@ -7,23 +7,6 @@ api.surume.tk は、不定期にデプロイやメンテナンス、サーバー
 また、利用者に告知せずにAPIのエンドポイントを変える場合もあります。
 利用する場合は、その点をご理解ください。
 
-## Icon API
-各種サービスのアイコンにリダイレクトするURLを提供するAPIです。
+## API一覧
 
-### `/icon/misskey/:domain/:screen_name`
-
-misskey.`:domain`に存在する@`:screen_name`のアイコンへリダイレクトします。
-
-利用例: `<img src="https://api.surume.tk/icon/misskey/xyz/syuilo">`  
-<img src="https://api.surume.tk/icon/misskey/xyz/syuilo" height=60>
-
-:warning: `:domain`はホワイトリスト制です。詳しくはお問い合わせください。
-
-### `/icon/twitter/:screen_name`
-
-Twitterに存在する@`:screen_name`のアイコンにリダイレクトします。
-
-利用例: `<img src="https://api.surume.tk/icon/twitter/imascg_stage">`  
-<img src="https://api.surume.tk/icon/twitter/imascg_stage" height=60>
-
-:warning: Twitterの仕様変更や、レートリミットの制限などにより、リダイレクトに失敗する場合があります。
+- [Icon API](icon-api.md)
