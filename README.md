@@ -10,3 +10,10 @@ api.surume.tk は、不定期にデプロイやメンテナンス、サーバー
 ## API一覧
 
 - [Icon API](icon-api.md) - 各SNSのscreen_nameを元に該当ユーザーのアイコンの画像ファイルへリダイレクトするAPIです
+
+## 問い合わせ先
+
+- [@Publicsurume on Twitter](https://twitter.com/publicsurume)
+- [@petitsurume@mstdn.maud.io](https://mstdn.maud.io/@petitsurume)
+
+TwitterかMastodonかGNU Socialのアカウントは持っとるやろ〜ｗ
