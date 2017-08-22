@@ -14,7 +14,8 @@ api.surume.tk は、不定期にデプロイやメンテナンス、サーバー
 
 misskey.`:domain`に存在する@`:screen_name`のアイコンへリダイレクトします。
 
-利用例: `<img src="https://api.surume.tk/icon/misskey/xyz/syuilo">`
+利用例: `<img src="https://api.surume.tk/icon/misskey/xyz/syuilo">`  
+<img src="https://api.surume.tk/icon/misskey/xyz/syuilo" height=60>
 
 :warning: `:domain`はホワイトリスト制です。詳しくはお問い合わせください。
 
@@ -22,6 +23,7 @@ misskey.`:domain`に存在する@`:screen_name`のアイコンへリダイレク
 
 Twitterに存在する@`:screen_name`のアイコンにリダイレクトします。
 
-利用例: `<img src="https://api.surume.tk/icon/twitter/imascg_stage">`
+利用例: `<img src="https://api.surume.tk/icon/twitter/imascg_stage">`  
+<img src="https://api.surume.tk/icon/twitter/imascg_stage" height=60>
 
 :warning: Twitterの仕様変更や、レートリミットの制限などにより、リダイレクトに失敗する場合があります。
